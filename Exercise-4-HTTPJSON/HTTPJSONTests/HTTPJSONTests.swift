@@ -1,10 +1,3 @@
-//
-//  HTTPJSONTests.swift
-//  HTTPJSONTests
-//
-//  Created by Xavier Dash on 5/8/21.
-//
-
 import XCTest
 @testable import HTTPJSON
 
