@@ -1,10 +1,3 @@
-//
-//  HTTPJSONUITests.swift
-//  HTTPJSONUITests
-//
-//  Created by Xavier Dash on 5/8/21.
-//
-
 import XCTest
 
 class HTTPJSONUITests: XCTestCase {
