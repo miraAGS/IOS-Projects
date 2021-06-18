@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  HTTPJSON
-//
-//  Created by Xavier Dash on 5/8/21.
-//
 
 import UIKit
 
