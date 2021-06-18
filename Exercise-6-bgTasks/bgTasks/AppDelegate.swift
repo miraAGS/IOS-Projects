@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  bgTasks
-//
-//  Created by Andy Ibanez on 12/6/19.
-//  Copyright © 2019 BNB. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
